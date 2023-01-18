@@ -68,6 +68,7 @@ education:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="pycharm" width="85" height="85"/>
  
  
+ <h2> 📈 &nbsp;My Github History!</h2>
  
  
  ![Umang's GitHub stats](https://github-readme-stats.vercel.app/api?username=umangvardhantyagi&show_icons=true&theme=radical)
