@@ -1,9 +1,20 @@
 ## Hi there, it's Umang 👋 (Umang Vardhan Tyagi)
 ### Data Science Intern
 
+<a href="www.linkedin.com/in/umang-vardhan-tyagi-79b969213/">
+ <img height="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
+
+
+
+
+
+<h2>🌱&nbsp;A Little Bit About Me And My Interest</h2>
+
 
 ```yaml
-* 
+ 
 name: Umang_Vardhan_Tyagi
 located_in: Delhi, India
 education:
@@ -30,7 +41,7 @@ education:
     ]
    
    hobbies: ["Playing Cricket","Travelling","workingout/exercising"   
-*
+
 ```
 
 
@@ -60,7 +71,6 @@ education:
           
 
             
-</p>
 
 
 
