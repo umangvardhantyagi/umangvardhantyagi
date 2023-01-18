@@ -1,16 +1,10 @@
 ## Hi there, it's Umang 👋 (Umang Vardhan Tyagi)
-### Data Science Intern
-
-<a href="www.linkedin.com/in/umang-vardhan-tyagi-79b969213/">
- <img height="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-
-
-
 
 
 
 <h2>🌱&nbsp;A Little Bit About Me And My Interest</h2>
+
+
 
 
 ```yaml
@@ -40,9 +34,23 @@ education:
        
     ]
    
-   hobbies: ["Playing Cricket","Travelling","workingout/exercising"   
+   hobbies: ["Playing Cricket","Travelling","workingout/exercising" 
 
 ```
+
+
+
+<h2> 🖐 &nbsp;Let's Connect and have a Chat</h2
+
+<a href="www.linkedin.com/in/umang-vardhan-tyagi-79b969213/">
+<img height="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+<p align="center">
+<img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif"/>
+</a>
+</p>
+
+
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -58,6 +66,12 @@ education:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="75" height="75"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="75" height="75"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="pycharm" width="85" height="85"/>
+ 
+ 
+ 
+ 
+ ![Umang's GitHub stats](https://github-readme-stats.vercel.app/api?username=umangvardhantyagi&show_icons=true&theme=radical)
+ 
 
           
           
@@ -79,7 +93,6 @@ education:
 
 
 
-![Snake animation](https://github.com/umangvardhantyagi/umangvardhantyagi/blob/output/github-contribution-grid-snake.svg)
 <!--
 **umangvardhantyagi/umangvardhantyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
