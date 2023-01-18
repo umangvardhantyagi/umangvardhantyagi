@@ -42,9 +42,8 @@ education:
 
 <h2> 🖐 &nbsp;Let's Connect and have a Chat</h2
  
-
-<a href="https://www.linkedin.com/in/umang-vardhan-tyagi-79b969213/">
-  <img height="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<a href="https://www.linkedin.com/in/umang-vardhan-tyagi-79b969213">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 
 <p align="center">
