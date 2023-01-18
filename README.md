@@ -41,10 +41,12 @@ education:
 
 
 <h2> 🖐 &nbsp;Let's Connect and have a Chat</h2
- 
-<a href="https://www.linkedin.com/in/umang-vardhan-tyagi-79b969213">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+ <p align="left">
+ <a href="https://www.linkedin.com/in/umang-vardhan-tyagi-79b969213">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60"/>
 </a>
+ 
+
 
 <p align="center">
 <img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif"/>
@@ -79,9 +81,6 @@ education:
           
           
           
-<a href="https://www.linkedin.com/in/umang-vardhan-tyagi-79b969213">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60"/>
-</a>
           
         
           
